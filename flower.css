@@ -1,0 +1,130 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    
+   font-family: fantasy;
+    font-size: 20px;
+    
+}
+
+#Header{
+    background-image: url(assets/img/
+    height:90vh;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.navbar-nav li a {
+    
+  float: right;
+    color: white !important;
+    
+    
+    
+    
+}
+
+
+.navbar-toggler{
+    
+    border: none!important;
+    outline: none!important;
+    
+    
+}
+
+nav .fa-bars{
+    color: deepskyblue;
+    font-size: 26px;
+    
+}
+
+
+/*------------------------welcome text-------------------------*/
+
+/*
+.welcome{
+    
+    padding: 50px 100px;
+    margin-top:-140px;
+    background-color: deepskyblue;
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+    
+    
+    
+}
+
+*/
+
+/*
+.welcome h1{
+    
+    color:white;
+    
+    
+    
+}
+*/
+
+
+/*
+.welcome .home-btn 
+{
+    
+   margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    
+    
+    
+}
+*/
+/*
+
+.welcome .btn:focus{
+    
+    
+    box-shadow: none;
+}
+
+
+*/
+
+
+
+/*------------------------about us-------------------------*/
+
+#about
+{
+    padding-top:100px;
+    padding-bottom: 100px;
+    
+  
+}
+
+#about .col-md-6
+{
+    padding: 20px 10px;
+    
+    
+}
+
+#about h3
+{
+    margin: 20px auto;
+    
+    
+    
+    
+}
+#about img{
+   width: 500px ;
+   height: 700px;
+    
+}
+
